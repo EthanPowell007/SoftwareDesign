@@ -18,8 +18,6 @@ public class SoftwareDesign {
      */
     public static void main(String[] args) {
         
-        //Not funny. Didn't laugh.
-        
         Scanner input = new Scanner(System.in);
         
         String customerType = null;
